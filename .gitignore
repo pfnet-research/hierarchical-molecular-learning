@@ -1,0 +1,6 @@
+*.npz
+__pycache__/
+.*
+!.gitignore
+*~
+*.model

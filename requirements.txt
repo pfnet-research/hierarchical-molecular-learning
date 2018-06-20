@@ -1,0 +1,5 @@
+chainer<=3.1.0
+numpy
+scipy
+scikit-learn
+six

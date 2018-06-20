@@ -1,5 +1,5 @@
-This is implementation of "Semi-supervised learning of hierarchical representations of molecules using neural message passing"
-presetented at NIPS2017 workshop on Machine Learning for Molecules and Materials.
+This is implementation of "Semi-supervised learning of hierarchical representations of molecules using neural message passing" ([URL](https://arxiv.org/abs/1711.10168))
+presetented at NIPS2017 workshop on Machine Learning for Molecules and Materials ([URL](http://www.quantum-machine.org/workshops/nips2017/)).
 
 
 # Dependency
